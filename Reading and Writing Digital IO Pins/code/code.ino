@@ -29,20 +29,6 @@ void setup()
   // Configure serial
   Serial.begin(9600);
   Serial.flush();
-  
-  // Write HIGH value and read
-  digitalWrite(OUTPUTPIN,HIGH);
-  Serial.println("Writing data -> 1");
-  Serial.print(" Reading data <- ");
-  Serial.println(digitalRead(INPUTPIN));
-
-  delay(2000);
-
-  // Write LOW value and read
-  digitalWrite(OUTPUTPIN,LOW);
-  Serial.println("Writing data -> 0");
-  Serial.print(" Reading data <- ");
-  Serial.println(digitalRead(INPUTPIN));
 }
 
 void loop() 
