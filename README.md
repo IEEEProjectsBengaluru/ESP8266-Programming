@@ -14,7 +14,7 @@ This repository contains few basic programs and schematic for ESP8266 NodeMCU.
 ## Programming Tasks
 
 - Reading and Writing Digital IO Pins
-- Analog Inputs
+- Reading Analog Inputs
 - Serial Communication
 - I2C Communication
 - SPI Communication
