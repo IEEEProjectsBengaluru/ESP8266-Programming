@@ -18,17 +18,16 @@ This repository contains few basic programs and schematic for ESP8266 NodeMCU.
 - Serial Communication
 - TMP102 I2C Temperature sensor interfacing
 - Writing Temperature data to ThingSpeak
-- SPI Communication
-- EEPROM
-- Send SMS
-- Send Emails
-- Send Messages to WhatsApp
-- Web Server: Display Sensor Readings in Gauges
-- Read and write data to ThingSpeak
-- Google home
-- MQTT
-- IoT
-- BLE
+- Writing data to Blynk
+- SPI Communication*
+- EEPROM*
+- Send SMS*
+- Send Emails*
+- Send Messages to WhatsApp*
+- Web Server: Display Sensor Readings in Gauges*
+- Google home*
+- MQTT*
+- BLE*
 
 
 
