@@ -20,10 +20,10 @@ This repository contains few basic programs and schematic for ESP8266 NodeMCU.
 - Writing Temperature data to ThingSpeak
 - Writing data to Blynk
 - Send Messages to WhatsApp
+- Send Emails using SMTP Server
 - SPI Communication*
 - EEPROM*
 - Send SMS*
-- Send Emails*
 - Web Server: Display Sensor Readings in Gauges*
 - Google home*
 - MQTT*
